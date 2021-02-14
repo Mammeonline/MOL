@@ -1,0 +1,32 @@
+#dexp-countdown {
+	text-align: center;
+}
+#dexp-countdown .dexp-time {
+	display: inline-block;
+	max-width: 200px;
+	text-align: center;
+	width: 100%;
+	overflow: hidden;
+	margin: 0px 30px;
+}
+
+#dexp-countdown .dexp-time .number {
+	background-color: #fff;
+	border: 1px solid #e8e8e8;
+	border-radius: 2px 2px 0 0;
+	font-size: 38px;
+	font-weight: 300;
+	padding: 35px 0px;
+	display: block;
+}
+#dexp-countdown .dexp-time .text {
+	background: none repeat scroll 0 0 #e8e8e8;
+	border-radius: 0 0 2px 2px;
+	font-size: 14px;
+	font-weight: 300;
+	margin: 0;
+	padding: 5% 0;
+	text-transform: uppercase;
+	width: 100%;
+	display: block;
+}

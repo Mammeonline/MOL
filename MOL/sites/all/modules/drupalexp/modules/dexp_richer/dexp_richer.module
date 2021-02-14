@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the dexp_richer feature.
+ */
+
+include_once 'dexp_richer.features.inc';

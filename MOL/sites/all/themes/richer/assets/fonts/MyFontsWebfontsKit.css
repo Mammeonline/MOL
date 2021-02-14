@@ -1,0 +1,103 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3208487, 2016-04-23T12:41:49-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: StylistPro_Extra by Fontforecast
+ * URL: http://www.myfonts.com/fonts/fontforecast/stylist-pro/extra/
+ * 
+ * Webfont: StylistPro_Ornaments by Fontforecast
+ * URL: http://www.myfonts.com/fonts/fontforecast/stylist-pro/ornaments/
+ * 
+ * Webfont: StylistPro_Regular by Fontforecast
+ * URL: http://www.myfonts.com/fonts/fontforecast/stylist-pro/regular/
+ * 
+ * Webfont: StylistPro_Bold by Fontforecast
+ * URL: http://www.myfonts.com/fonts/fontforecast/stylist-pro/bold/
+ * 
+ * Webfont: StylistPro_Light by Fontforecast
+ * URL: http://www.myfonts.com/fonts/fontforecast/stylist-pro/light/
+ * 
+ * 
+ * @license
+ * MyFonts Webfont Build ID 3208491, 2016-04-23T13:02:35-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: TheHandBold by La Goupil Paris
+ * URL: http://www.myfonts.com/fonts/la-goupil/the-hand/bold/
+ * 
+ * Webfont: TheHandExtrablack by La Goupil Paris
+ * URL: http://www.myfonts.com/fonts/la-goupil/the-hand/extrablack/
+ * 
+ * Webfont: TheHandLight by La Goupil Paris
+ * URL: http://www.myfonts.com/fonts/la-goupil/the-hand/light/
+ * 
+ * Webfont: TheHandDotted by La Goupil Paris
+ * URL: http://www.myfonts.com/fonts/la-goupil/the-hand/dotted/
+ * 
+ * Webfont: TheHandBlack by La Goupil Paris
+ * URL: http://www.myfonts.com/fonts/la-goupil/the-hand/black/
+ * 
+ * Webfont: TheHandRegular by La Goupil Paris
+ * URL: http://www.myfonts.com/fonts/la-goupil/the-hand/regular/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3208491
+ * Licensed pageviews: 10,000
+ * Webfonts copyright: Copyright (c) 2013 by Julien Saurin and Fanny Coulez. All rights reserved.
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3208487
+ * Licensed pageviews: 10,000
+ * Webfonts copyright: Copyright (c) 2015 by Fontforecast. All rights reserved.
+ * 
+ * © 2016 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/30f527");
+@import url("//hello.myfonts.net/count/30f52b");
+  
+@font-face {font-family: 'StylistPro_Extra';src: url('webfonts/30F527_0_0.eot');src: url('webfonts/30F527_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/30F527_0_0.woff2') format('woff2'),url('webfonts/30F527_0_0.woff') format('woff'),url('webfonts/30F527_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'StylistPro_Ornaments';src: url('webfonts/30F527_1_0.eot');src: url('webfonts/30F527_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/30F527_1_0.woff2') format('woff2'),url('webfonts/30F527_1_0.woff') format('woff'),url('webfonts/30F527_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'StylistPro_Regular';src: url('webfonts/30F527_2_0.eot');src: url('webfonts/30F527_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/30F527_2_0.woff2') format('woff2'),url('webfonts/30F527_2_0.woff') format('woff'),url('webfonts/30F527_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'StylistPro_Bold';src: url('webfonts/30F527_3_0.eot');src: url('webfonts/30F527_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/30F527_3_0.woff2') format('woff2'),url('webfonts/30F527_3_0.woff') format('woff'),url('webfonts/30F527_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'StylistPro_Light';src: url('webfonts/30F527_4_0.eot');src: url('webfonts/30F527_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/30F527_4_0.woff2') format('woff2'),url('webfonts/30F527_4_0.woff') format('woff'),url('webfonts/30F527_4_0.ttf') format('truetype');}
+
+  
+@font-face {font-family: 'TheHandBold';src: url('webfonts/30F52B_0_0.eot');src: url('webfonts/30F52B_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/30F52B_0_0.woff2') format('woff2'),url('webfonts/30F52B_0_0.woff') format('woff'),url('webfonts/30F52B_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'TheHandExtrablack';src: url('webfonts/30F52B_1_0.eot');src: url('webfonts/30F52B_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/30F52B_1_0.woff2') format('woff2'),url('webfonts/30F52B_1_0.woff') format('woff'),url('webfonts/30F52B_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'TheHandLight';src: url('webfonts/30F52B_2_0.eot');src: url('webfonts/30F52B_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/30F52B_2_0.woff2') format('woff2'),url('webfonts/30F52B_2_0.woff') format('woff'),url('webfonts/30F52B_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'TheHandDotted';src: url('webfonts/30F52B_3_0.eot');src: url('webfonts/30F52B_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/30F52B_3_0.woff2') format('woff2'),url('webfonts/30F52B_3_0.woff') format('woff'),url('webfonts/30F52B_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'TheHandBlack';src: url('webfonts/30F52B_4_0.eot');src: url('webfonts/30F52B_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/30F52B_4_0.woff2') format('woff2'),url('webfonts/30F52B_4_0.woff') format('woff'),url('webfonts/30F52B_4_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'TheHandRegular';src: url('webfonts/30F52B_5_0.eot');src: url('webfonts/30F52B_5_0.eot?#iefix') format('embedded-opentype'),url('webfonts/30F52B_5_0.woff2') format('woff2'),url('webfonts/30F52B_5_0.woff') format('woff'),url('webfonts/30F52B_5_0.ttf') format('truetype');}
+ 
+ 

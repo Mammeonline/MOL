@@ -1,0 +1,5 @@
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 97.49 seconds

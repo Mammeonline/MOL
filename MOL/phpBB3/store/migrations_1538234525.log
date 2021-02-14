@@ -1,0 +1,10 @@
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 14.60 secondi

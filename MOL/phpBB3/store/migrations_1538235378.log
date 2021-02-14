@@ -1,0 +1,295 @@
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_unique_index.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\user_notifications_table_unique_index.
+[INFO] Installazione dati: \phpbb\db\migration\data\v32x\user_notifications_table_unique_index; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321rc1.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\v321rc1.
+[INFO] Schema installato: \phpbb\db\migration\data\v32x\v321rc1; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321rc1.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\v321rc1.
+[INFO] Installazione dati: \phpbb\db\migration\data\v32x\v321rc1; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\v321.
+[INFO] Schema installato: \phpbb\db\migration\data\v32x\v321; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\v321.
+[INFO] Installazione dati: \phpbb\db\migration\data\v32x\v321; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[INFO] Schema installato: \phpbb\db\migration\data\v32x\update_prosilver_bitfield; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[INFO] Installazione dati: \phpbb\db\migration\data\v32x\update_prosilver_bitfield; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\email_force_sender.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\email_force_sender.
+[INFO] Schema installato: \phpbb\db\migration\data\v32x\email_force_sender; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\email_force_sender.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\email_force_sender.
+[DEBUG] Installazione dati in corso: \phpbb\db\migration\data\v32x\email_force_sender; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\email_force_sender.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\email_force_sender.
+[INFO] Installazione dati: \phpbb\db\migration\data\v32x\email_force_sender; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\email_force_sender
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\enable_accurate_pm_button.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v322.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3112.
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v31x\v3112
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\email_force_sender
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\enable_accurate_pm_button.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v322.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v322rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\fix_user_styles.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\fix_user_styles.
+[INFO] Schema installato: \phpbb\db\migration\data\v32x\fix_user_styles; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\email_force_sender
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\enable_accurate_pm_button.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v322.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v322rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\fix_user_styles.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\fix_user_styles.
+[INFO] Installazione dati: \phpbb\db\migration\data\v32x\fix_user_styles; tempo: 0.12 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\email_force_sender
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\enable_accurate_pm_button.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v322.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v322rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\f_list_topics_permission_add.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\f_list_topics_permission_add.
+[INFO] Schema installato: \phpbb\db\migration\data\v32x\f_list_topics_permission_add; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\email_force_sender
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\enable_accurate_pm_button.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v322.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v322rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\f_list_topics_permission_add.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\f_list_topics_permission_add.
+[INFO] Installazione dati: \phpbb\db\migration\data\v32x\f_list_topics_permission_add; tempo: 1.14 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\email_force_sender
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\enable_accurate_pm_button.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v322.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v322rc1.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\merge_duplicate_bbcodes.
+[INFO] Schema installato: \phpbb\db\migration\data\v32x\merge_duplicate_bbcodes; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\email_force_sender
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\enable_accurate_pm_button.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v322.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v322rc1.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\merge_duplicate_bbcodes.
+[INFO] Installazione dati: \phpbb\db\migration\data\v32x\merge_duplicate_bbcodes; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\email_force_sender
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\enable_accurate_pm_button.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v322.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v322rc1.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\v322rc1.
+[INFO] Schema installato: \phpbb\db\migration\data\v32x\v322rc1; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\email_force_sender
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\enable_accurate_pm_button.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v322.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v322rc1.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\v322rc1.
+[INFO] Installazione dati: \phpbb\db\migration\data\v32x\v322rc1; tempo: 0.01 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\email_force_sender
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\enable_accurate_pm_button.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v322.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\v322.
+[INFO] Schema installato: \phpbb\db\migration\data\v32x\v322; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\email_force_sender
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\enable_accurate_pm_button.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v322.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\v322.
+[INFO] Installazione dati: \phpbb\db\migration\data\v32x\v322; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\email_force_sender
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\enable_accurate_pm_button.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\enable_accurate_pm_button.
+[INFO] Schema installato: \phpbb\db\migration\data\v32x\enable_accurate_pm_button; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\email_force_sender
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\enable_accurate_pm_button.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\enable_accurate_pm_button.
+[INFO] Installazione dati: \phpbb\db\migration\data\v32x\enable_accurate_pm_button; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\email_force_sender
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323rc1.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\v323rc1.
+[INFO] Schema installato: \phpbb\db\migration\data\v32x\v323rc1; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\email_force_sender
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323rc1.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\v323rc1.
+[INFO] Installazione dati: \phpbb\db\migration\data\v32x\v323rc1; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\email_force_sender
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\v323rc1
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323rc2.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\v323rc2.
+[INFO] Schema installato: \phpbb\db\migration\data\v32x\v323rc2; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\email_force_sender
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\v323rc1
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323rc2.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\v323rc2.
+[INFO] Installazione dati: \phpbb\db\migration\data\v32x\v323rc2; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\email_force_sender
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\v323rc1
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\v323.
+[INFO] Schema installato: \phpbb\db\migration\data\v32x\v323; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\update_prosilver_bitfield
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\email_force_sender
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\v323rc1
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v323.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\v323.
+[INFO] Installazione dati: \phpbb\db\migration\data\v32x\v323; tempo: 0.00 secondi
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin_wait.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data_v2.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data.
+[DEBUG] Installazione schema: \phpbb\viglink\migrations\viglink_data.
+[INFO] Schema installato: \phpbb\viglink\migrations\viglink_data; tempo: 0.00 secondi
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin_wait.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data_v2.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data.
+[DEBUG] Installazione dati: \phpbb\viglink\migrations\viglink_data.
+[DEBUG] Installazione dati in corso: \phpbb\viglink\migrations\viglink_data; tempo: 0.00 secondi
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin_wait.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data_v2.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data.
+[DEBUG] Installazione dati: \phpbb\viglink\migrations\viglink_data.
+[DEBUG] Installazione dati in corso: \phpbb\viglink\migrations\viglink_data; tempo: 0.01 secondi
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin_wait.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data_v2.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data.
+[DEBUG] Installazione dati: \phpbb\viglink\migrations\viglink_data.
+[DEBUG] Installazione dati in corso: \phpbb\viglink\migrations\viglink_data; tempo: 0.00 secondi
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin_wait.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data_v2.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data.
+[DEBUG] Installazione dati: \phpbb\viglink\migrations\viglink_data.
+[DEBUG] Installazione dati in corso: \phpbb\viglink\migrations\viglink_data; tempo: 0.00 secondi
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin_wait.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data_v2.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data.
+[DEBUG] Installazione dati: \phpbb\viglink\migrations\viglink_data.
+[DEBUG] Installazione dati in corso: \phpbb\viglink\migrations\viglink_data; tempo: 0.01 secondi
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin_wait.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data_v2.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data.
+[DEBUG] Installazione dati: \phpbb\viglink\migrations\viglink_data.
+[DEBUG] Installazione dati in corso: \phpbb\viglink\migrations\viglink_data; tempo: 0.01 secondi
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin_wait.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data_v2.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data.
+[DEBUG] Installazione dati: \phpbb\viglink\migrations\viglink_data.
+[DEBUG] Installazione dati in corso: \phpbb\viglink\migrations\viglink_data; tempo: 0.00 secondi
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin_wait.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data_v2.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data.
+[DEBUG] Installazione dati: \phpbb\viglink\migrations\viglink_data.
+[INFO] Installazione dati: \phpbb\viglink\migrations\viglink_data; tempo: 0.06 secondi
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin_wait.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data_v2.
+[DEBUG] Installazione schema: \phpbb\viglink\migrations\viglink_data_v2.
+[INFO] Schema installato: \phpbb\viglink\migrations\viglink_data_v2; tempo: 0.00 secondi
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin_wait.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data_v2.
+[DEBUG] Installazione dati: \phpbb\viglink\migrations\viglink_data_v2.
+[DEBUG] Installazione dati in corso: \phpbb\viglink\migrations\viglink_data_v2; tempo: 0.00 secondi
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin_wait.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_data_v2.
+[DEBUG] Installazione dati: \phpbb\viglink\migrations\viglink_data_v2.
+[INFO] Installazione dati: \phpbb\viglink\migrations\viglink_data_v2; tempo: 0.01 secondi
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin_wait.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin.
+[DEBUG] Installazione schema: \phpbb\viglink\migrations\viglink_ask_admin.
+[INFO] Schema installato: \phpbb\viglink\migrations\viglink_ask_admin; tempo: 0.00 secondi
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin_wait.
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin.
+[DEBUG] Installazione dati: \phpbb\viglink\migrations\viglink_ask_admin.
+[INFO] Installazione dati: \phpbb\viglink\migrations\viglink_ask_admin; tempo: 0.00 secondi
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin_wait.
+[DEBUG] Installazione schema: \phpbb\viglink\migrations\viglink_ask_admin_wait.
+[INFO] Schema installato: \phpbb\viglink\migrations\viglink_ask_admin_wait; tempo: 0.00 secondi
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_ask_admin_wait.
+[DEBUG] Installazione dati: \phpbb\viglink\migrations\viglink_ask_admin_wait.
+[INFO] Installazione dati: \phpbb\viglink\migrations\viglink_ask_admin_wait; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\viglink\migrations\viglink_ask_admin_wait
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\viglink\migrations\viglink_ask_admin
+[DEBUG] Applica le dipendenze di \phpbb\viglink\migrations\viglink_cron.
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\viglink\migrations\viglink_cron

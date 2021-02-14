@@ -1,0 +1,278 @@
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\add_jabber_ssl_context_config_options.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v31x\add_jabber_ssl_context_config_options.
+[DEBUG] Installazione dati in corso: \phpbb\db\migration\data\v31x\add_jabber_ssl_context_config_options; tempo: 0.01 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\add_jabber_ssl_context_config_options.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v31x\add_jabber_ssl_context_config_options.
+[DEBUG] Installazione dati in corso: \phpbb\db\migration\data\v31x\add_jabber_ssl_context_config_options; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\add_jabber_ssl_context_config_options.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v31x\add_jabber_ssl_context_config_options.
+[INFO] Installazione dati: \phpbb\db\migration\data\v31x\add_jabber_ssl_context_config_options; tempo: 0.01 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\add_smtp_ssl_context_config_options.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v31x\add_smtp_ssl_context_config_options.
+[INFO] Schema installato: \phpbb\db\migration\data\v31x\add_smtp_ssl_context_config_options; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\add_smtp_ssl_context_config_options.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v31x\add_smtp_ssl_context_config_options.
+[DEBUG] Installazione dati in corso: \phpbb\db\migration\data\v31x\add_smtp_ssl_context_config_options; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\add_smtp_ssl_context_config_options.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v31x\add_smtp_ssl_context_config_options.
+[DEBUG] Installazione dati in corso: \phpbb\db\migration\data\v31x\add_smtp_ssl_context_config_options; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\add_smtp_ssl_context_config_options.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v31x\add_smtp_ssl_context_config_options.
+[INFO] Installazione dati: \phpbb\db\migration\data\v31x\add_smtp_ssl_context_config_options; tempo: 0.01 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\update_hashes.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v31x\update_hashes.
+[INFO] Schema installato: \phpbb\db\migration\data\v31x\update_hashes; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\update_hashes.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v31x\update_hashes.
+[DEBUG] Installazione dati in corso: \phpbb\db\migration\data\v31x\update_hashes; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\update_hashes.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v31x\update_hashes.
+[DEBUG] Installazione dati in corso: \phpbb\db\migration\data\v31x\update_hashes; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\update_hashes.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v31x\update_hashes.
+[INFO] Installazione dati: \phpbb\db\migration\data\v31x\update_hashes; tempo: 0.01 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\add_latest_topics_index.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v31x\add_latest_topics_index.
+[INFO] Schema installato: \phpbb\db\migration\data\v31x\add_latest_topics_index; tempo: 0.40 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\add_latest_topics_index.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v31x\add_latest_topics_index.
+[INFO] Installazione dati: \phpbb\db\migration\data\v31x\add_latest_topics_index; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111rc1.
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v31x\v3111rc1
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v31x\v3111.
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v31x\v3111
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_unique_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_remove_duplicates.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_temp_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_reduce_column_sizes.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_index_p3.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_index_p2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_index_p1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\cookie_notice_p2.
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\cookie_notice_p2
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_unique_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_remove_duplicates.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_temp_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_reduce_column_sizes.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_index_p3.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_index_p2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_index_p1.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\user_notifications_table_index_p1.
+[INFO] Schema installato: \phpbb\db\migration\data\v32x\user_notifications_table_index_p1; tempo: 0.47 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_unique_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_remove_duplicates.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_temp_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_reduce_column_sizes.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_index_p3.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_index_p2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_index_p1.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\user_notifications_table_index_p1.
+[INFO] Installazione dati: \phpbb\db\migration\data\v32x\user_notifications_table_index_p1; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_unique_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_remove_duplicates.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_temp_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_reduce_column_sizes.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_index_p3.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_index_p2.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\user_notifications_table_index_p2.
+[INFO] Schema installato: \phpbb\db\migration\data\v32x\user_notifications_table_index_p2; tempo: 0.55 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_unique_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_remove_duplicates.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_temp_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_reduce_column_sizes.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_index_p3.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_index_p2.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\user_notifications_table_index_p2.
+[INFO] Installazione dati: \phpbb\db\migration\data\v32x\user_notifications_table_index_p2; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_unique_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_remove_duplicates.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_temp_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_reduce_column_sizes.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_index_p3.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\user_notifications_table_index_p3.
+[INFO] Schema installato: \phpbb\db\migration\data\v32x\user_notifications_table_index_p3; tempo: 0.95 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_unique_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_remove_duplicates.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_temp_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_reduce_column_sizes.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_index_p3.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\user_notifications_table_index_p3.
+[INFO] Installazione dati: \phpbb\db\migration\data\v32x\user_notifications_table_index_p3; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_unique_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_remove_duplicates.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_temp_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_reduce_column_sizes.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\user_notifications_table_reduce_column_sizes.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\user_notifications_table_reduce_column_sizes; tempo: 4.05 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_unique_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_remove_duplicates.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_temp_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_reduce_column_sizes.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\user_notifications_table_reduce_column_sizes.
+[INFO] Schema installato: \phpbb\db\migration\data\v32x\user_notifications_table_reduce_column_sizes; tempo: 8.08 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_unique_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_remove_duplicates.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_temp_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_reduce_column_sizes.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\user_notifications_table_reduce_column_sizes.
+[INFO] Installazione dati: \phpbb\db\migration\data\v32x\user_notifications_table_reduce_column_sizes; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_unique_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_remove_duplicates.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_temp_index.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\user_notifications_table_temp_index.
+[INFO] Schema installato: \phpbb\db\migration\data\v32x\user_notifications_table_temp_index; tempo: 1.31 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_unique_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_remove_duplicates.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_temp_index.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\user_notifications_table_temp_index.
+[INFO] Installazione dati: \phpbb\db\migration\data\v32x\user_notifications_table_temp_index; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_unique_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_remove_duplicates.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\user_notifications_table_remove_duplicates.
+[INFO] Schema installato: \phpbb\db\migration\data\v32x\user_notifications_table_remove_duplicates; tempo: 0.00 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_unique_index.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_remove_duplicates.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v32x\user_notifications_table_remove_duplicates.
+[INFO] Installazione dati: \phpbb\db\migration\data\v32x\user_notifications_table_remove_duplicates; tempo: 0.74 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_unique_index.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\user_notifications_table_unique_index.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\user_notifications_table_unique_index; tempo: 0.01 secondi
+[DEBUG] Migrazione già installata (richiesta ignorata): \phpbb\db\migration\data\v32x\load_user_activity_limit
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\update_prosilver_bitfield.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\v321rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\user_notifications_table_unique_index.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v32x\user_notifications_table_unique_index.
+[INFO] Schema installato: \phpbb\db\migration\data\v32x\user_notifications_table_unique_index; tempo: 3.64 secondi

@@ -1,0 +1,359 @@
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320a2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320a1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\log_post_id.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v320\log_post_id.
+[INFO] Installazione dati: \phpbb\db\migration\data\v320\log_post_id; tempo: 0.00 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320a2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320a1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\remove_outdated_media.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\remove_outdated_media.
+[INFO] Schema installato: \phpbb\db\migration\data\v320\remove_outdated_media; tempo: 0.00 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320a2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320a1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\remove_outdated_media.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v320\remove_outdated_media.
+[INFO] Installazione dati: \phpbb\db\migration\data\v320\remove_outdated_media; tempo: 0.01 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320a2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320a1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\notifications_board.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\notifications_board.
+[INFO] Schema installato: \phpbb\db\migration\data\v320\notifications_board; tempo: 0.00 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320a2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320a1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\notifications_board.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v320\notifications_board.
+[DEBUG] Installazione dati in corso: \phpbb\db\migration\data\v320\notifications_board; tempo: 0.00 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320a2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320a1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\notifications_board.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v320\notifications_board.
+[DEBUG] Installazione dati in corso: \phpbb\db\migration\data\v320\notifications_board; tempo: 2.81 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320a2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320a1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\notifications_board.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v320\notifications_board.
+[INFO] Installazione dati: \phpbb\db\migration\data\v320\notifications_board; tempo: 2.82 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320a2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320a1.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\v320a1.
+[INFO] Schema installato: \phpbb\db\migration\data\v320\v320a1; tempo: 0.00 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320a2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320a1.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v320\v320a1.
+[INFO] Installazione dati: \phpbb\db\migration\data\v320\v320a1; tempo: 0.00 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320a2.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\v320a2.
+[INFO] Schema installato: \phpbb\db\migration\data\v320\v320a2; tempo: 0.00 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320a2.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v320\v320a2.
+[INFO] Installazione dati: \phpbb\db\migration\data\v320\v320a2; tempo: 0.00 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\oauth_states.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\oauth_states.
+[INFO] Schema installato: \phpbb\db\migration\data\v320\oauth_states; tempo: 0.06 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\oauth_states.
+[DEBUG] Installazione dati: \phpbb\db\migration\data\v320\oauth_states.
+[INFO] Installazione dati: \phpbb\db\migration\data\v320\oauth_states; tempo: 0.00 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 0.04 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 0.85 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 0.72 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 0.69 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 0.73 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 0.04 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 0.04 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 0.03 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 0.04 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 0.02 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 0.02 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 0.11 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 0.09 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 0.09 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 0.03 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 0.03 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 0.02 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 0.02 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 0.03 secondi
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v32x\load_user_activity_limit.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\cookie_notice.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc2.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\add_help_phpbb.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Applica le dipendenze di \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installazione schema: \phpbb\db\migration\data\v320\default_data_type_ids; tempo: 13.42 secondi

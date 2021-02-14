@@ -1,0 +1,156 @@
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320a2.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320a1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\notifications_board.
+[DEBUG] Installing Data: \phpbb\db\migration\data\v320\notifications_board.
+[INFO] Installed Data: \phpbb\db\migration\data\v320\notifications_board; Time: 3.71 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320a2.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320a1.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\v320a1.
+[INFO] Installed Schema: \phpbb\db\migration\data\v320\v320a1; Time: 0.00 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320a2.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320a1.
+[DEBUG] Installing Data: \phpbb\db\migration\data\v320\v320a1.
+[INFO] Installed Data: \phpbb\db\migration\data\v320\v320a1; Time: 0.00 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320a2.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\v320a2.
+[INFO] Installed Schema: \phpbb\db\migration\data\v320\v320a2; Time: 0.00 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320a2.
+[DEBUG] Installing Data: \phpbb\db\migration\data\v320\v320a2.
+[INFO] Installed Data: \phpbb\db\migration\data\v320\v320a2; Time: 0.00 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\oauth_states.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\oauth_states.
+[INFO] Installed Schema: \phpbb\db\migration\data\v320\oauth_states; Time: 0.03 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\oauth_states.
+[DEBUG] Installing Data: \phpbb\db\migration\data\v320\oauth_states.
+[INFO] Installed Data: \phpbb\db\migration\data\v320\oauth_states; Time: 0.00 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 0.01 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 0.26 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 0.19 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 0.18 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 0.26 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 0.01 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 0.01 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 0.01 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 0.00 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 0.00 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 0.00 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 0.01 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 0.01 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 0.01 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 0.01 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 0.00 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 0.01 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 0.00 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 0.00 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 5.16 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 7.20 seconds
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\v320rc1.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\report_id_auto_increment.
+[DEBUG] Apply dependencies of \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids.
+[DEBUG] Installing Schema: \phpbb\db\migration\data\v320\default_data_type_ids; Time: 5.72 seconds

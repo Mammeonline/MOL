@@ -1,0 +1,29 @@
+/* Mini profiles on the left */
+.online, .offline {
+	background-image:none;
+}
+
+.leftsided .post.online .postprofile {
+	background-image: url("./icon_user_online_left.png");
+	background-position:right top;
+	background-repeat:no-repeat;
+}
+
+.leftsided .post.offline .postprofile {
+	background-image: url("./icon_user_offline_left.png");
+	background-position:right top;
+	background-repeat:no-repeat;
+}
+
+
+@media only screen and (max-width: 700px), only screen and (max-device-width: 700px) {
+	.leftsided .post.online .postprofile, .leftsided .post.offline .postprofile {
+		background: none;
+	}
+	.leftsided .post.online {
+		background-image: url("./icon_user_online_left.png");
+	}
+	.leftsided .post.offline {
+		background-image: url("./icon_user_offline_left.png");
+	}
+}
